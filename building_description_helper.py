@@ -1,8 +1,6 @@
 """
 @author MrDrProfNo
 
-Testing that commits still work?
-
 Tool to help with generation of building descriptions. Buildings are formatted
 much like operations, but use some different bits of information and have a
 different "copy-paste flow."
