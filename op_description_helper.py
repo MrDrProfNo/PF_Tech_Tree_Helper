@@ -79,7 +79,8 @@ replacement_mapping = {
     "[researchslot/]": "<researchslot></researchslot>",
     "[energyslot/]": "<energyslot></energyslot>",
     "[watersector/]": "<watersector></watersector>",
-    "[tricorium/]": "<tricorium></tricorium>"
+    "[tricorium/]": "<tricorium></tricorium>",
+    "[medalgold/]": "<x-medal_prime></x-medal_prime>"
 }
 
 tier_numerals = {
