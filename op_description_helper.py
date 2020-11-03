@@ -165,7 +165,7 @@ def replace_icon_formatting(string):
 
 def main():
     if len(argv) != 2:
-        print("usage: tech_contents_helper <output_file>")
+        print("usage: op_description_helper <output_file>")
         return -1
 
     output_file = open(argv[1], "a+")
