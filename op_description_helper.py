@@ -80,7 +80,14 @@ replacement_mapping = {
     "[energyslot/]": "<energyslot></energyslot>",
     "[watersector/]": "<watersector></watersector>",
     "[tricorium/]": "<tricorium></tricorium>",
-    "[medalgold/]": "<x-medal_prime></x-medal_prime>"
+    "[medalgold/]": "<x-medal_prime></x-medal_prime>",
+    "[bulletlist]": "",
+    "[/bulletlist]": "",
+    "[bullet]": "<bullet>",
+    "[/bullet]": "</bullet>",
+    "[darkgrey]": "",
+    "[/darkgrey]": "",
+    "[accuracy/]": "<accuracy></accuracy>"
 }
 
 tier_numerals = {
