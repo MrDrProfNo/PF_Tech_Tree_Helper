@@ -81,6 +81,7 @@ replacement_mapping = {
     "[watersector/]": "<watersector></watersector>",
     "[tricorium/]": "<tricorium></tricorium>",
     "[medalgold/]": "<x-medal_prime></x-medal_prime>",
+    "[medaliron/]": "<x-medal_veteran></x-medal_veteran>",
     "[bulletlist]": "",
     "[/bulletlist]": "",
     "[bullet]": "<bullet>",
