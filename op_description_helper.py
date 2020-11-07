@@ -100,7 +100,8 @@ tier_numerals = {
     "7": "VII",
     "8": "VIII",
     "9": "IX",
-    "10": "X"
+    "10": "X",
+    "11": "XI"
 }
 
 
@@ -199,7 +200,7 @@ def main():
 
         tier_number = input("Enter tier number (numeric): ")
 
-        if not tier_number in "12345678910":
+        if not tier_number in tier_numerals.keys():
             print("invalid tier number")
             continue
 
