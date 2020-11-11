@@ -78,6 +78,7 @@ replacement_mapping = {
     "[foodslot/]": "<foodslot></foodslot>",
     "[researchslot/]": "<researchslot></researchslot>",
     "[energyslot/]": "<energyslot></energyslot>",
+    "[productionSlot/]": "<productionSlot></productionSlot>",
     "[watersector/]": "<watersector></watersector>",
     "[tricorium/]": "<tricorium></tricorium>",
     "[medalgold/]": "<x-medal_prime></x-medal_prime>",
